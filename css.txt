@@ -5,8 +5,7 @@ h1{
 		margin-top: 40px;
 	}
 	p{
-        width: 350px;
-	height: 400px;
+        width: 95%;
 	border: 5px solid red;
 	background: green;
 	padding:35px 5px 20px 5px;
@@ -29,15 +28,15 @@ h1{
 	#chicken{
 		position: absolute;
 		top: 98px;
-		right: 1.5%; 
+		right: 3.7%; 
 		} 
 	#fish{
 		position: absolute;
 		top: 235px;
-		right: 1.5%; 
+		right: 3.7%; 
 		} 
 #sushi{
 		position: absolute;
 		top: 363px;
-		right: 1.5%; 
+		right: 3.7%; 
 	}
