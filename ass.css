@@ -1,0 +1,51 @@
+
+
+ .text-center{
+	font-size: 36px;
+	font-weight: bolder;
+	color: white;
+}
+li{
+	color: black;
+	background-color: #f0fefe;
+	border-color: 3px,solid,#000;
+	text-align: center;
+}
+
+#heading{
+	font-weight: bold;
+	color: black;
+	font-size: 29px;
+	padding: 0px;
+	text-align: center;
+}
+
+ section{
+	
+	margin:5%;
+	padding: 30px;
+	background-color: white;
+	color: black;
+	overflow: auto;
+	border-radius: 10px;
+	margin-top: 60px;
+	height:1000px;
+
+
+
+}
+header{
+	width: 100%;
+	position: relative;
+
+}
+body{
+	width:100%;
+	position: absolute;
+	top: 0;
+	
+}
+
+
+
+
