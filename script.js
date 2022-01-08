@@ -8,7 +8,7 @@ var string = ["Yaakov", "John", "jen", "Jason", "Paul", "Frank", "Larry", "Paula
     	byeSpeaker.speak(string[i]);
   } else {
    	helloSpeaker.speak(string[i]);
-    };
+    }
 }
-     window.string[i]=string[i];
+     window.string=string;
 })(window);
