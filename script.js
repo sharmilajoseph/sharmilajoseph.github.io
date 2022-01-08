@@ -10,5 +10,5 @@ var string = ["Yaakov", "John", "jen", "Jason", "Paul", "Frank", "Larry", "Paula
    	helloSpeaker.speak(string[i]);
     };
 }
-     window.string=string;
+     window.string[i]=string[i];
 })(window);
