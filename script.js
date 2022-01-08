@@ -12,8 +12,3 @@ var string = ["Yaakov", "John", "jen", "Jason", "Paul", "Frank", "Larry", "Paula
 }
      window.string=string;
 })(window);
-
-   
-  
-  
- 
