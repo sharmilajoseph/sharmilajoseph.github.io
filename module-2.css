@@ -19,7 +19,7 @@ h1{
 }
 #chicken, #fish, #sushi{
 		background-color: white;
-		border: 3px solid black;
+		border: 1px solid black;
 		padding: 5px;
 		box-sizing: border-box;
 		width: 90px;
