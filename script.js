@@ -9,6 +9,6 @@ var string = ["Yaakov", "John", "jen", "Jason", "Paul", "Frank", "Larry", "Paula
   } else {
    	helloSpeaker.speak(string[i]);
     }
-}
+};
      window.string=string;
 })(window);
